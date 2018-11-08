@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Lotte2" size="0.100000 0.079583" />
+    <ImageTarget name="Joyko2" size="0.100000 0.063158" />
+    <ImageTarget name="Minyak2" size="0.100000 0.160988" />
+    <ImageTarget name="Minyak1" size="0.050000 0.017113" />
+    <ImageTarget name="Tango1" size="0.050000 0.020285" />
+    <ImageTarget name="Nabati2" size="0.100000 0.066746" />
+    <ImageTarget name="Lotte1" size="0.050000 0.017820" />
+    <ImageTarget name="Bango2" size="0.070000 0.091670" />
+    <ImageTarget name="Zee2" size="0.100000 0.161757" />
+    <ImageTarget name="Zee1" size="0.050000 0.023742" />
+    <ImageTarget name="Tango2" size="0.100000 0.064554" />
+    <ImageTarget name="Pocky2" size="0.100000 0.202355" />
+    <ImageTarget name="Pocky1" size="0.050000 0.026893" />
+    <ImageTarget name="Nabati1" size="0.050000 0.027338" />
+    <ImageTarget name="Joyko1" size="0.050000 0.020329" />
+    <ImageTarget name="Bubur2" size="0.100000 0.140762" />
+    <ImageTarget name="Bubur1" size="0.050000 0.019195" />
+    <ImageTarget name="Bango1" size="0.050000 0.023648" />
+    <ImageTarget name="bar" size="0.050000 0.025938" />
+    <ImageTarget name="CoverNextar" size="0.200000 0.504954" />
+    <ImageTarget name="BarNextar" size="0.060000 0.030947" />
+  </Tracking>
+</QCARConfig>
